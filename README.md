@@ -1,6 +1,6 @@
 # L4D2 Linux 服务器管理脚本
 
-为 Left 4 Dead 2 Linux 服务器编写的中文维护脚本。包含安装、更新、启动与停止等服务器管理功能，以及由 accelerator74 提供的 Tickrate 和 L4DToolZ 扩展的便捷安装。
+为 Left 4 Dead 2 Linux 服务器编写的中文维护脚本。包含安装、更新、启动与停止等服务器管理功能，以及由 [accelerator74](https://github.com/accelerator74) 提供的 [Tickrate](https://github.com/accelerator74/Tickrate-Enabler) 和 [L4DToolZ](https://github.com/accelerator74/l4dtoolz) 扩展的便捷安装。
 
 ### 功能特性
 
