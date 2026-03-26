@@ -469,7 +469,7 @@ CreateServer()
         echo "# 服务器启动脚本"
         echo "# 请根据需要修改下方的启动参数"
         echo ""
-        echo "./srcds_run -game left4dead2 -console -condebug +ip 0.0.0.0 -port 27015"
+        echo "./srcds_run -game left4dead2 -console -condebug -ip 0.0.0.0 -port 27015"
     } > "${run_script}"
 
     # 添加执行权限
